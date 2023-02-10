@@ -1,0 +1,1 @@
+Modelagem realizada para um sistema de e-commerce. Possui lado administrativo e usuario.
